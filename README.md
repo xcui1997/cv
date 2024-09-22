@@ -5,8 +5,6 @@
 
 These are the LaTeX source files for my academic CV.
 
-## Download
-
 To build the CV, you need to have LaTeX installed. The full LaTeX distribution (e.g.,
 
 TeXLive on Linux or MacTeX on macOS) are usually too big (>5 GB).
